@@ -1,7 +1,7 @@
 # Twitter data collection and Maps
 1. raw datasets "mydata" stored here: https://drive.google.com/drive/folders/1LLZYJb7AvXIVq3Jq1LR_zNeMeEDqhT5a?usp=sharing
 2. data collection API : API_data_collection.ipynb
-## Twitter data maps
+### Twitter data maps
 geomaps:pre_APIdata.ipynb - including world map and USA states map
 ### Datasets: 
    num_list = [23109, 11844, 14183, 10744, 26824, 15270, 16227, 49447, 17813, 9267,
