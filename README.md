@@ -27,6 +27,30 @@ geomaps:pre_APIdata.ipynb - including world map and USA states map
     18. TikTok
     19. Animation
     20. Weather
+    |No. | Keywords | Tweets |  
+    | --- | --- |--- |
+    |1| 5G | 23109|
+    |2| Pizza | 11844 |
+    |3|Covid/Corona| 14183|
+    |4| Bitcoin| 10744   |
+    |5| Kobe| 26824   |
+    |6| Biden|15270   |
+    |7| Mars| 16227  |
+    |8| Cat| 49447   |
+    |9| PUBG|17813  |
+    |10| Wallstreet| 9267    |
+    |11| BlackLivesMatter| 39544  |
+    |12| Iphone| 12748  |
+    |13| Police| 14785  |
+    |14| Soccer| 20371   |
+    |15| Photography| 14772 |
+    |16| Music| 16586  |
+    |17| LGBT| 10283  |
+    |18| TikTok| 57348  |
+    |19| Animation| 23732 |
+    |20| Weather| 12358  |
+
+
 # Twitter features and topic modelling
 1. TopicModel_classification.ipynb
 2. 
