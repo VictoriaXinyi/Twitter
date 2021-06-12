@@ -1,19 +1,32 @@
-# Twitter data collection
+# Twitter data collection and Maps
 1. raw datasets "mydata" stored here: https://drive.google.com/drive/folders/1LLZYJb7AvXIVq3Jq1LR_zNeMeEDqhT5a?usp=sharing
 2. data collection API : API_data_collection.ipynb
-# Twitter data maps
-1. geomaps:pre_APIdata.ipynb - including world map and USA states map
-2. Datasets: 169312 tweets, including-
-    (1) 5G : 7269
-    (2) Pizza : 11850
-    (3) Covid/Corona: 14186
-    (4) Bitcoin: 10751
-    (5) Kobe: 26836
-    (6) Biden: 15271
-    (7) Mars: 7371
-    (8) Cat: 49463
-    (9) PUBG: 17850
-    (10) Climatechange: 8465
-# Twitter features
+## Twitter data maps
+geomaps:pre_APIdata.ipynb - including world map and USA states map
+### Datasets: 
+   num_list = [23109, 11844, 14183, 10744, 26824, 15270, 16227, 49447, 17813, 9267,
+            39544, 12748, 14785, 20371, 14772, 16586, 10283, 57348, 23732, 12358]          
+   Total: 417255 tweets, including-
+    (1) 5G 
+    (2) Pizza 
+    (3) Covid/Corona
+    (4) Bitcoin
+    (5) Kobe
+    (6) Biden
+    (7) Mars
+    (8) Cat
+    (9) PUBG
+    (10) Wallstreet
+    (11) BlackLivesMatter
+    (12) Iphone
+    (13) Police
+    (14) Soccer
+    (15) Photography
+    (16) Music
+    (17) LGBT
+    (18) TikTok
+    (19) Animation
+    (20) Weather
+# Twitter features and topic modelling
 1. TopicModel_classification.ipynb
 2. 
